@@ -4,6 +4,8 @@
 
 This is a simple web-based notebook application built with Node.js, Express.js, and EJS templating engine. It allows users to create, read, and manage text-based notes through a clean web interface.
 
+![Demo](public/gif/demo.gif)
+
 ## Features
 
 - **Create Notes**: Add new text notes with a simple form interface
